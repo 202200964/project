@@ -3,18 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.Utilizador.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\controllers\\utilizadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\utilizadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.LoginModel.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\controllers\\utilizadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\utilizadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.LoginModel.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\verificationcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\verificationcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Program.cs",
               "RelativeDocumentMoniker": "projeto\\Program.cs",
@@ -66,17 +63,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Utilizador [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.Utilizador.sql",
-              "ToolTip": "dbo.Utilizador [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-18T14:18:19.906Z",
-              "EditorCaption": ""
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -93,23 +80,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.LoginModel [Data]",
+              "DocumentIndex": 3,
+              "Title": "dbo.LoginModel.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.LoginModel.sql",
-              "ToolTip": "dbo.LoginModel [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.LoginModel.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-18T14:13:25.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T14:13:25.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UtilizadorsController.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Controllers\\UtilizadorsController.cs",
               "RelativeDocumentMoniker": "projeto\\Controllers\\UtilizadorsController.cs",
               "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Controllers\\UtilizadorsController.cs",
               "RelativeToolTip": "projeto\\Controllers\\UtilizadorsController.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAAAAPYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMBAAAAAAAAAAAYwEABAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T14:07:52.199Z",
               "EditorCaption": ""
@@ -122,7 +108,7 @@
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\ResetPassword.cshtml",
               "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\ResetPassword.cshtml",
               "RelativeToolTip": "projeto\\Views\\Utilizadors\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T13:58:52.329Z",
               "EditorCaption": ""
@@ -137,8 +123,7 @@
               "RelativeToolTip": "projeto\\Views\\Utilizadors\\VerificationCode.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T13:58:11.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T13:58:11.88Z"
             },
             {
               "$type": "Document",
@@ -148,7 +133,7 @@
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\ForgotPassword.cshtml",
               "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\ForgotPassword.cshtml",
               "RelativeToolTip": "projeto\\Views\\Utilizadors\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T13:53:35.535Z",
               "EditorCaption": ""
@@ -163,8 +148,7 @@
               "RelativeToolTip": "projeto\\Views\\Utilizadors\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T13:51:34.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T13:51:34.11Z"
             },
             {
               "$type": "Document",
@@ -176,8 +160,7 @@
               "RelativeToolTip": "projeto\\Views\\Utilizadors\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T13:51:33.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T13:51:33.605Z"
             }
           ]
         }

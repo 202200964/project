@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\models\\logutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\logutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +34,12 @@
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\views\\utilizadors\\verificationcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\utilizadors\\verificationcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|c:\\users\\migue\\desktop\\grow\\project\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1C4E2D-C45F-4B40-9BF8-3832F7C7064A}|projeto\\projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,25 +49,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Program.cs",
-              "RelativeDocumentMoniker": "projeto\\Program.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Program.cs",
-              "RelativeToolTip": "projeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "projeto\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:29:40.273Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-01-19T09:08:33.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LogUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Models\\LogUtilizador.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\LogUtilizador.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Models\\LogUtilizador.cs",
+              "RelativeToolTip": "projeto\\Models\\LogUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:06:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "projeto\\Models\\LoginModel.cs",
@@ -76,17 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "dbo.LoginModel [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ApplicationDbContext_f30eaf05_bf31_4cb2_9578_60521f1e1934/True/SqlTable/dbo.LoginModel.sql",
               "ToolTip": "dbo.LoginModel [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-18T14:13:25.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T14:13:25.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UtilizadorsController.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Controllers\\UtilizadorsController.cs",
               "RelativeDocumentMoniker": "projeto\\Controllers\\UtilizadorsController.cs",
@@ -99,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ResetPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\ResetPassword.cshtml",
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\ResetPassword.cshtml",
@@ -112,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "VerificationCode.cshtml",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\VerificationCode.cshtml",
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\VerificationCode.cshtml",
@@ -125,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\ForgotPassword.cshtml",
@@ -138,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\Login.cshtml",
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\Login.cshtml",
@@ -151,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\migue\\Desktop\\GROW\\project\\projeto\\projeto\\Views\\Utilizadors\\Index.cshtml",
               "RelativeDocumentMoniker": "projeto\\Views\\Utilizadors\\Index.cshtml",
